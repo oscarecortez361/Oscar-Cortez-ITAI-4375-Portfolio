@@ -1,1 +1,16 @@
 # Oscar-Cortez-ITAI-4375-Portfolio
+Oscar-Cortez-ITAI-4375-Portfolio/
+├── README.md
+├── Assignments/
+│   ├── Assignment1/
+│   ├── Assignment2/
+│   ├── Assignment3/
+│   ├── Assignment4/
+│   ├── Assignment5/
+│   ├── Assignment6/
+│   ├── Assignment7/
+│   ├── Assignment8/
+│   └── Assignment9/
+├── Midterm/
+└── Discussions/
+    └── Selected-Discussions/
