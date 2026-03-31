@@ -11,7 +11,6 @@ This repository contains my coursework for ITAI 4375 – AI in Healthcare. It in
 ## Repository Contents
 - Assignments 1–9
 - Midterm Glossary Project
-- Selected Discussions (optional)
 
 ## Topics Covered
 - Medical terminology in healthcare AI
